@@ -1,0 +1,13 @@
+.but{
+    flex: 1;
+   
+}
+
+.cbtn{
+    background-color: red;
+    color: white;
+}
+.sbtn{
+    background-color: green;
+    color: white;
+}
